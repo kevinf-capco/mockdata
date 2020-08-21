@@ -1,0 +1,315 @@
+[
+  {
+    "address": "", 
+    "company_id": "abc123", 
+    "lastupdated": "Wed, 19 Aug 2020 23:17:44 GMT", 
+    "lent_code": "", 
+    "media": [
+      {
+        "company_id": "abc123", 
+        "id": 1, 
+        "lastupdated": "Wed, 19 Aug 2020 23:35:58 GMT", 
+        "publisher": "blumberg", 
+        "sentiment": "pos"
+      }
+    ], 
+    "name": "abc", 
+    "officers": [], 
+    "products": [
+      {
+        "asset_based_lending": null, 
+        "cash_based_products": null, 
+        "company_id": "abc123", 
+        "corporate_lending": null, 
+        "crypto_trading": null, 
+        "current_accounts": 2, 
+        "id": 1, 
+        "invoice_financing": null, 
+        "lastupdated": "Thu, 20 Aug 2020 00:47:24 GMT", 
+        "private_financing": null, 
+        "trade_financing": null
+      }
+    ], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "asd", 
+    "company_id": "afsda", 
+    "lastupdated": "Thu, 20 Aug 2020 07:36:31 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dasfa", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "zxc", 
+    "company_id": "adfasdfa", 
+    "lastupdated": "Thu, 20 Aug 2020 07:36:54 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "xczcxv", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "23141325", 
+    "lastupdated": "Thu, 20 Aug 2020 07:53:03 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "ewsdfafd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "adfsda", 
+    "company_id": "asdfasdf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:00:53 GMT", 
+    "lent_code": "sdsd", 
+    "media": [], 
+    "name": "sdd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "adsfs", 
+    "company_id": "fada", 
+    "lastupdated": "Thu, 20 Aug 2020 08:01:45 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "dadsaf", 
+    "company_id": "sdfas", 
+    "lastupdated": "Thu, 20 Aug 2020 08:03:24 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "dadsaf", 
+    "company_id": "sdasdffasd", 
+    "lastupdated": "Thu, 20 Aug 2020 08:04:25 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "asfdads", 
+    "company_id": "1234141452", 
+    "lastupdated": "Thu, 20 Aug 2020 08:06:06 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "adds", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "adf", 
+    "company_id": "321543213", 
+    "lastupdated": "Thu, 20 Aug 2020 08:07:55 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dsfsd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "sdsdafasdczv", 
+    "lastupdated": "Thu, 20 Aug 2020 08:10:08 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "czxxc", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "432rgfasdfd", 
+    "lastupdated": "Thu, 20 Aug 2020 08:11:40 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dsfa", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "terrf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:13:49 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "adfd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "terrfdfs", 
+    "lastupdated": "Thu, 20 Aug 2020 08:14:01 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "adfd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "terrfdfsasdf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:14:09 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "adfd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "dascxvz", 
+    "lastupdated": "Thu, 20 Aug 2020 08:19:55 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "zxc", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "zxcvcz", 
+    "lastupdated": "Thu, 20 Aug 2020 08:20:16 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "cvxz", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "jhgfgsf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:21:40 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "sfsdf", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "trefadsdf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:25:42 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "addfsa", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "ccxvzvxccv", 
+    "lastupdated": "Thu, 20 Aug 2020 08:26:25 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "zxc", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "zxccxcv bzxc", 
+    "lastupdated": "Thu, 20 Aug 2020 08:26:47 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "cxz", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "asdfasasdasd", 
+    "lastupdated": "Thu, 20 Aug 2020 08:30:21 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "sda", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "dsfad", 
+    "lastupdated": "Thu, 20 Aug 2020 08:31:48 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "sfads", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "wefsdadf", 
+    "lastupdated": "Thu, 20 Aug 2020 08:32:34 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dsasd", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "adsffasdsd", 
+    "lastupdated": "Thu, 20 Aug 2020 08:34:08 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dds", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "dxcvzcxv", 
+    "lastupdated": "Thu, 20 Aug 2020 08:34:59 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "zxcxzc", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "sdfgdfa", 
+    "lastupdated": "Thu, 20 Aug 2020 08:35:34 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "dadfsad", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "dsdads", 
+    "lastupdated": "Thu, 20 Aug 2020 08:36:21 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "ssss", 
+    "officers": [], 
+    "scc_code": ""
+  }, 
+  {
+    "address": "", 
+    "company_id": "dfadssfasd", 
+    "lastupdated": "Thu, 20 Aug 2020 08:40:09 GMT", 
+    "lent_code": "", 
+    "media": [], 
+    "name": "ssdsd", 
+    "officers": [], 
+    "scc_code": ""
+  }
+]
